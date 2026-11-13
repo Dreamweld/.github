@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Dreamweld — Ideas, made real.</title>
+  <desc id="desc">Editorial ink-and-amber banner with a geometric welded W and a bright spark. An independent studio for curious minds and useful software.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#26313c" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#111820"/>
+      <stop offset="1" stop-color="#111820" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="480" rx="20" fill="#111820"/>
+  <path d="M780 0h480q20 0 20 20v440q0 20-20 20H780Z" fill="url(#grid)"/>
+  <rect x="768" width="240" height="480" fill="url(#fade)"/>
+  <path d="M64 65H88" stroke="#ffbd69" stroke-width="4"/>
+  <text x="101" y="72" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1" fill="#f5f1e8">Dreamweld</text>
+  <text x="64" y="192" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#f5f1e8">Ideas,</text>
+  <text x="64" y="278" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#ffbd69">made real.</text>
+  <text x="67" y="330" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#b6c0ca">A little imagination. A lot of making.</text>
+  <path d="M64 388H1216" stroke="#303b45"/>
+  <text x="64" y="426" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3" fill="#b6c0ca">IMAGINE / MAKE / REFINE</text>
+  <text x="1216" y="426" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#ffbd69">AN INDEPENDENT STUDIO</text>
+  <g transform="translate(800 64) scale(.72)">
+    <circle cx="256" cy="225" r="190" fill="none" stroke="#34404b" stroke-width="1"/>
+    <circle cx="256" cy="225" r="157" fill="none" stroke="#26313c" stroke-width="1" stroke-dasharray="3 10"/>
+    <path d="M108 182 174 338 246 190" fill="none" stroke="#f5f1e8" stroke-width="28" stroke-linecap="square"/>
+    <path d="M246 190 316 338 385 182" fill="none" stroke="#ffbd69" stroke-width="28" stroke-linecap="square"/>
+    <path d="m257 83 13 32 32 13-32 13-13 32-13-32-32-13 32-13Z" fill="#ffbd69"/>
+    <path d="m321 86 17-17M328 164l22 9M203 90l-12-17" stroke="#ffbd69" stroke-width="3"/>
+  </g>
+</svg>

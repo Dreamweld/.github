@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Dreamweld mark</title>
+  <desc id="desc">Two interlocking angular strokes form a W, joined by an amber spark on a dark ink field.</desc>
+  <rect width="512" height="512" rx="112" fill="#111820"/>
+  <path d="M108 182 174 338 246 190" fill="none" stroke="#f5f1e8" stroke-width="35" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M246 190 316 338 385 182" fill="none" stroke="#ffbd69" stroke-width="35" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="m257 103 11 27 27 11-27 11-11 27-11-27-27-11 27-11Z" fill="#ffbd69"/>
+</svg>
